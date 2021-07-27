@@ -1,3 +1,14 @@
+
+# Task:
+1. User Login, Register and List of users using the same layout.
+2.Please click on facebook icon to login with facebook.
+3.Context-API is used to store the users state
+
+Hosted Link: https://assignment4-72dde.web.app/
+
+Git Repo: https://github.com/fleminlouies/Users_Login_Register/tree/master
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
